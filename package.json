@@ -1,0 +1,15 @@
+{
+  "name": "html-form-data-to-excel",
+  "version": "1.0.0",
+  "description": "html-form-data-to-excel node app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "dnsamw",
+  "license": "ISC",
+  "dependencies": {
+    "excel4node": "^1.7.2"
+  }
+}
