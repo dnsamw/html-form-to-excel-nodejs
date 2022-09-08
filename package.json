@@ -10,6 +10,6 @@
   "author": "dnsamw",
   "license": "ISC",
   "dependencies": {
-    "excel4node": "^1.7.2"
+    "excel4node": "^1.8.0"
   }
 }
